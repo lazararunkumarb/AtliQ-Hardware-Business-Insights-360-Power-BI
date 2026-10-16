@@ -69,3 +69,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNjcxM2U0MjYtMzg5My00MDkwLWIzM2YtYjZmYmQ2M
 📈 Project Outcome
 
 This project strengthened my understanding of business intelligence, data modeling, DAX calculations, and interactive dashboard development. It helped me understand how data from different business functions can be analyzed and presented to support data-driven decisions.
+
+## 📊 Power BI Project Presentation
+
+[📄 View My Project PDF]
