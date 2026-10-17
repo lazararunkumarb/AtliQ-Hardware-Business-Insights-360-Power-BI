@@ -70,6 +70,46 @@ https://app.powerbi.com/view?r=eyJrIjoiNjcxM2U0MjYtMzg5My00MDkwLWIzM2YtYjZmYmQ2M
 
 This project strengthened my understanding of business intelligence, data modeling, DAX calculations, and interactive dashboard development. It helped me understand how data from different business functions can be analyzed and presented to support data-driven decisions.
 
-## 📊 Power BI Project Presentation
+<h2>Project Presentation</h2>
 
-[📄 View My Project PDF]
+<table>
+  <tr>
+    <td><img src="presentation/Slide1.PNG" width="300" alt="Slide 1"></td>
+    <td><img src="presentation/Slide2.PNG" width="300" alt="Slide 2"></td>
+    <td><img src="presentation/Slide3.PNG" width="300" alt="Slide 3"></td>
+  </tr>
+</table>
+<h2>Power BI Project Presentation</h2>
+
+<table>
+  <tr>
+    <td><img src="presentation/Slide1.PNG" width="100%" alt="Slide 1"></td>
+    <td><img src="presentation/Slide2.PNG" width="100%" alt="Slide 2"></td>
+    <td><img src="presentation/Slide3.PNG" width="100%" alt="Slide 3"></td>
+  </tr>
+  <tr>
+    <td><img src="presentation/Slide4.PNG" width="100%" alt="Slide 4"></td>
+    <td><img src="presentation/Slide5.PNG" width="100%" alt="Slide 5"></td>
+    <td><img src="presentation/Slide6.PNG" width="100%" alt="Slide 6"></td>
+  </tr>
+  <tr>
+    <td><img src="presentation/Slide7.PNG" width="100%" alt="Slide 7"></td>
+    <td><img src="presentation/Slide8.PNG" width="100%" alt="Slide 8"></td>
+    <td><img src="presentation/Slide9.PNG" width="100%" alt="Slide 9"></td>
+  </tr>
+  <tr>
+    <td><img src="presentation/Slide10.PNG" width="100%" alt="Slide 10"></td>
+    <td><img src="presentation/Slide11.PNG" width="100%" alt="Slide 11"></td>
+    <td><img src="presentation/Slide12.PNG" width="100%" alt="Slide 12"></td>
+  </tr>
+  <tr>
+    <td><img src="presentation/Slide13.PNG" width="100%" alt="Slide 13"></td>
+    <td><img src="presentation/Slide14.PNG" width="100%" alt="Slide 14"></td>
+    <td><img src="presentation/Slide15.PNG" width="100%" alt="Slide 15"></td>
+  </tr>
+  <tr>
+    <td><img src="presentation/Slide16.PNG" width="100%" alt="Slide 16"></td>
+    <td><img src="presentation/Slide17.PNG" width="100%" alt="Slide 17"></td>
+    <td><img src="presentation/Slide18.PNG" width="100%" alt="Slide 18"></td>
+  </tr>
+</table>
